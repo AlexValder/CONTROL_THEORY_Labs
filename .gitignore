@@ -2,3 +2,8 @@
 *.djvu
 *.tex
 *.eps
+.idea
+*.jpg
+*.rar
+*.odt
+*.doc
